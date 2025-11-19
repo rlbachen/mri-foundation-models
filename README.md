@@ -1,6 +1,3 @@
-# cat12-pipeline-anatcl-performance-evaluation
-Structural MRI Data Preprocessing: CAT12 Pipeline and AnatCL Performance Evaluation via Linear Regression with K-Fold Cross-Validation
-
 Find the original image in Docker Hub [here](https://hub.docker.com/r/jhuguetn/cat12).
 
 Find the updated image in Docker Hub [here](https://hub.docker.com/r/rlbachen/cat12-segment-smooth). (added smoothing layer for pipeline)
